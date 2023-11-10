@@ -1,2 +1,2 @@
-Link: githubfavoritos.netlify.app
+https://githubfavoritos.netlify.app
 Usando API gitHub, com localStorage com json
